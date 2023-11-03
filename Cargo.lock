@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "CustomOS"
+name = "custom_os"
 version = "0.1.0"
